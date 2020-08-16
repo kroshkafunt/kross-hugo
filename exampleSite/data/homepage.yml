@@ -48,9 +48,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: ''
-    year: ''
-    academy: ''
+  - title: "456"
+    year: "1987"
+    academy: тест2
   - title: "123"
     year: "1986"
     academy: тест
