@@ -26,3 +26,5 @@ fields:
   type: tag_list
   default: []
   label: tagss
+pages:
+- exampleSite/content/english/blog/тест.20191203072044
