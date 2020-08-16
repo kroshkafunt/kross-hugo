@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: exampleSite/blog
   label: Post (en)
   create: documents
   match: "**/*"
-  new_doc_ext: '20191203072044'
+  new_doc_ext: ''
   templates:
   - post
 - type: directory
