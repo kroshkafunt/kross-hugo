@@ -1,4 +1,4 @@
-baseURL = "http://kroshkafunttest.netlify.com"
+baseURL = "http://kroshkafunttest.netlify.app"
 languageCode = "ru-RU"
 summaryLength = "10"
 theme = "kross-hugo"
