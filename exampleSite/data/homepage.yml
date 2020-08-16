@@ -48,6 +48,12 @@ education:
   enable: true
   title: Education
   item:
+  - title: ''
+    year: ''
+    academy: ''
+  - title: "123"
+    year: "1986"
+    academy: тест
   - title: тест
     year: "2006"
     academy: Masassusets Institute of Technology
