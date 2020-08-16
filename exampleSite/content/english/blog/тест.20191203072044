@@ -6,7 +6,7 @@ draft = true
 image = "/images/portfolio/item-5.png"
 image_webp = "/images/portfolio/item-3.png"
 tagss = ["123", "564"]
-title = "тест"
+title = "test"
 
 +++
 текст поста
